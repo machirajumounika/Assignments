@@ -1,5 +1,13 @@
-package com.assignment.assignment1;
 
+/**
+* The  program implements an application that
+* simply displays Name to the standard output.
+*
+* @author  Mounika Machiraju
+* @version 1.0
+* @since   2017-11-04 
+*/
+package com.assignment.assignment1;
 public class Assignment {
 
 	public void printName(String name) {
