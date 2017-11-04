@@ -10,6 +10,7 @@ public class Assignment {
 		// TODO Auto-generated method stub
 
 		Assignment assignemnt = new Assignment();
+		
 		assignemnt.printName("Ram");
 		assignemnt.printName("Sham");
 		assignemnt.printName("Steve");
