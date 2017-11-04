@@ -1,4 +1,3 @@
-
 /**
 * The  program implements an application that
 * simply displays Name to the standard output.
@@ -8,7 +7,7 @@
 * @since   2017-11-04 
 */
 package com.assignment.assignment1;
-public class Assignment {
+public class Program1 {
 
 	public void printName(String name) {
 		System.out.println("You have entered your name as " + name);
@@ -17,7 +16,7 @@ public class Assignment {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Assignment assignemnt = new Assignment();
+		Program1 assignemnt = new Program1();
 		
 		assignemnt.printName("Ram");
 		assignemnt.printName("Sham");
